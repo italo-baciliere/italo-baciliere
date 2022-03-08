@@ -1,7 +1,9 @@
 ## 👋 Fala Devs!
 
 Meu nome é Ítalo Baciliere, tenho 24 anos e moro em Contagem, Minas Gerais! 🧀☕
+
 Gosto de conversar e de ouvir o que cada ser humaninho tem a dizer.
+
 Cada dia mais apaixonado pelas mentes e técnicas brilhantes que permitem a progressão do campo da computação. ❤
 
 
