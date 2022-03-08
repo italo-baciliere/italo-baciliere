@@ -1,4 +1,5 @@
-### Hi there 👋
+## 👋 Hello! Welcome to my Github profile.
+### My name is Ítalo Baciliere!
 
 <!--
 **italo-baciliere/italo-baciliere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
